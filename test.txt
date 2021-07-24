@@ -1,4 +1,4 @@
 Test: Prueba de commit.
 
 
-Hoy practicamos git
+Hoy practicamos git en un viernes
